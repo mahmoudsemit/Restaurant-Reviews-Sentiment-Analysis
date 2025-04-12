@@ -1,0 +1,1 @@
+This sentiment analysis of restaurant reviews gauges customers satisfaction in order to identify areas of improvement. It aims to understand how people feel about the restaurant by analyzing their reviews to determine whether customers had positive, negative or neutral experiences.
